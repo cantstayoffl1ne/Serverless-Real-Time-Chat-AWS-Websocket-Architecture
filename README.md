@@ -20,8 +20,3 @@ thousands of concurrent connections.
 
 ## Stack
 API Gateway (WebSocket) · AWS Lambda · DynamoDB · SQS
-
-## Why this pattern
-[2-3 sentences: cost — pay only per connection-minute and invocation, not per
-idle server; operational simplicity — no servers to patch or scale manually;
-elasticity — handles spiky chat traffic without pre-provisioning capacity.]
