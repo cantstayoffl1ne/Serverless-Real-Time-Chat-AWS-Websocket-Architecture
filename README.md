@@ -1,6 +1,6 @@
 # Serverless-Real-Time-Chat-AWS-Websocket-Architecture
 
-A fully serverless real-time chat application built on AWS, using API Gateway
+Today we built a fully serverless real-time chat application built on AWS, using API Gateway
 WebSocket APIs, Lambda, DynamoDB, and SQS. Zero persistent servers, scales to
 thousands of concurrent connections.
 
